@@ -1,0 +1,13 @@
+Bash completion has been installed to: /usr/local/etc/bash_completion.d
+
+brew install rabbitmq
+brew services start rabbitmq
+rabbitmq-server
+
+http://localhost:15672
+guest/guest
+
+official manual:
+https://github.com/rabbitmq/rabbitmq-tutorials
+
+https://www.rabbitmq.com/getstarted.html
